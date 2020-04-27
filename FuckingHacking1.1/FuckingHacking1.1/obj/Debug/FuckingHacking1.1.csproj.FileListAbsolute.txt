@@ -1,0 +1,8 @@
+c:\users\nitrocharger\documents\visual studio 2013\Projects\FuckingHacking1.1\FuckingHacking1.1\bin\Debug\FuckingHacking1.1.exe.config
+c:\users\nitrocharger\documents\visual studio 2013\Projects\FuckingHacking1.1\FuckingHacking1.1\bin\Debug\FuckingHacking1.1.exe
+c:\users\nitrocharger\documents\visual studio 2013\Projects\FuckingHacking1.1\FuckingHacking1.1\bin\Debug\FuckingHacking1.1.pdb
+c:\users\nitrocharger\documents\visual studio 2013\Projects\FuckingHacking1.1\FuckingHacking1.1\obj\Debug\FuckingHacking1.1.csprojResolveAssemblyReference.cache
+c:\users\nitrocharger\documents\visual studio 2013\Projects\FuckingHacking1.1\FuckingHacking1.1\obj\Debug\FuckingHacking1._1.Properties.Resources.resources
+c:\users\nitrocharger\documents\visual studio 2013\Projects\FuckingHacking1.1\FuckingHacking1.1\obj\Debug\FuckingHacking1.1.csproj.GenerateResource.Cache
+c:\users\nitrocharger\documents\visual studio 2013\Projects\FuckingHacking1.1\FuckingHacking1.1\obj\Debug\FuckingHacking1.1.exe
+c:\users\nitrocharger\documents\visual studio 2013\Projects\FuckingHacking1.1\FuckingHacking1.1\obj\Debug\FuckingHacking1.1.pdb
